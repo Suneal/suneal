@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am <a href="https://sunil.pages.wm.edu">Sunil Manandhar</a>. I am a Ph.D. candidate in the Department of Computer Science at the College of William & Mary. I am working with <a href="https://www.adwaitnadkarni.com/"> Dr. Adwait Nadkarni</a>. My research interest include IoT security, analysis and enforcement of access control policies in smart home systems, software security, and natural language processing. I completed by B.Sc. in Computer Science and Information Technology from St. Xavier’s College, Nepal.
+I am <a href="https://sunil.pages.wm.edu">Sunil Manandhar</a>. I am a Research Scientist at IBM Research. I graduated from William & Mary on August 2022. My research interest include IoT security, analysis and enforcement of access control policies in smart home systems, software security, and natural language processing. 
 
 
 <!-- **Suneal/suneal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
